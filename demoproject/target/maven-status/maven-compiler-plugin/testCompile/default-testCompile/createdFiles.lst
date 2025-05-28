@@ -1,0 +1,11 @@
+pages\ManageContactPage.class
+pages\AdminUserPage.class
+generateReport\Listeners.class
+pages\LoginPage.class
+testScript\LoginTest.class
+testScript\AdminUserTest.class
+testScript\ManageContactTest.class
+testScript\ManageNewsTest.class
+pages\ManageNewsPage.class
+testScript\Base.class
+retry\Retry.class
